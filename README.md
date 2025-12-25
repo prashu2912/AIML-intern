@@ -17,14 +17,14 @@ This repository documents the projects and research completed during my **AI/ML 
 * **Deliverable:** A 5-page research paper exploring Transformer architectures, "Agentic" workflows, RAG (Retrieval-Augmented Generation), and the ethical frontiers of AI.
 * **Key Insight:** The industry is shifting from generative chatbots to **autonomous agents** capable of executing complex, multi-step workflows.
 
-### **Task 3: Exploratory Data Analysis (EDA)**
+### **Task 3 & Task-4 Exploratory Data Analysis (EDA)**
 * **Objective:** Uncovered patterns and relationships in high-dimensional data using statistical techniques.
 * **Tech Stack:** Python, Pandas, NumPy, Seaborn, Matplotlib.
 * **Deliverable:** A Jupyter Notebook visualization report identifying key trends, outliers, and data correlations in a real-world dataset.
 
-### **Task 4: Machine Learning Model Comparison**
+    ### Machine Learning Model Comparison**
 * **Objective:** Engineered and evaluated supervised learning models to solve a predictive problem.
-* **Methodology:** Benchmarked **Linear Regression** vs. **Random Forest** algorithms.
+* **Methodology:** Benchmarked **Linear Regression** vs. **Random Forest** and also I applied DECISION TREE ,XGBoost algorithms on Dataset.
 * **Metrics:** Evaluated performance using Accuracy, Precision, Recall, and F1-Score.
 * **Deliverable:** A comparative analysis showcasing the trade-offs between model interpretability (Linear) and predictive power (Ensemble methods).
 
@@ -40,4 +40,4 @@ This repository documents the projects and research completed during my **AI/ML 
 * **LinkedIn:** [https://www.linkedin.com/in/prasad-gorli-a180a2235]
 
 ---
-*Submitted as part of the Owl AI Internship Program.*
+                                      "Thank-You"
